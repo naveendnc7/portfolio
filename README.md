@@ -1,6 +1,6 @@
 # Naveen Duddupudi | Portfolio
 
-A personal portfolio built with React and Vite.
+A personal portfolio built with React, Tailwind CSS, and Vite.
 
 ## Local development
 
@@ -15,4 +15,4 @@ Run `pnpm build` to generate the production site in `dist/`.
 
 ## Edit the portfolio
 
-Update `src/profile.js` to add a headline, bio, and projects. Each project takes a `name`, `description`, and optional `url`. The page shows the About and Projects sections once they have content.
+Update `src/profile.js` to update the headline, bio, skills, and projects. Each project takes a `name`, `description`, and optional `url`. The Projects section appears once you add a project.
